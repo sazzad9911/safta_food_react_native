@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+    {
+        "command": "npx react-native run-android --port 8084",
+        "name": "Run App",
+        "request": "launch",
+        "type": "node-terminal"
+    },
+        {
+            "command": "react-native start --port 8084 --reset-cache",
+            "name": "Run Metro",
+            "request": "launch",
+            "type": "node-terminal"
+        }
+       
+    ]
+}

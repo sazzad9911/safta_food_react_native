@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7000fb7-0302-49f3-8526-65d7421f24ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_10.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_10.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_11.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_11.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/arm64-v8a/libreanimated.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/arm64-v8a/libreanimated.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/armeabi-v7a/libreanimated.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/armeabi-v7a/libreanimated.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/x86/libreanimated.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/x86/libreanimated.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/x86_64/libreanimated.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/x86_64/libreanimated.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_launch_screen.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_launch_screen.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/arm64-v8a/libreanimated.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/arm64-v8a/libreanimated.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/armeabi-v7a/libreanimated.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/armeabi-v7a/libreanimated.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/x86/libreanimated.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/x86/libreanimated.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/x86_64/libreanimated.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/x86_64/libreanimated.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/launch_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/launch_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../components/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/Events.js" beforeDir="false" afterPath="$PROJECT_DIR$/../components/Events.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/Items.js" beforeDir="false" afterPath="$PROJECT_DIR$/../components/Items.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/MyAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/../components/MyAccount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../components/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../components/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-community/masked-view/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@react-native-community/masked-view/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-firebase/app/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@react-native-firebase/app/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-firebase/auth/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@react-native-firebase/auth/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@react-native-firebase/firestore/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@react-native-firebase/firestore/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/lottie-react-native/src/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/lottie-react-native/src/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-navigation-bar-color/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-navigation-bar-color/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/Common/cpp/SharedItems/MutableValue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/Common/cpp/SharedItems/MutableValue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/Common/cpp/SharedItems/ShareableValue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/Common/cpp/SharedItems/ShareableValue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/Common/cpp/Tools/RuntimeDecorator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/Common/cpp/Tools/RuntimeDecorator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/Common/cpp/headers/Tools/RuntimeDecorator.h" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/Common/cpp/headers/Tools/RuntimeDecorator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/098f1cc5e9cb894f0a1af7797f1d2af8.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/0fadab42304560f9428565a4be87f225.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/0fadab42304560f9428565a4be87f225/jetified-react-native-reanimated-64/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/0fadab42304560f9428565a4be87f225/jetified-react-native-reanimated-64/META-INF/com/android/build/gradle/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/0fadab42304560f9428565a4be87f225/jetified-react-native-reanimated-64/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/0fadab42304560f9428565a4be87f225/jetified-react-native-reanimated-64/jni/arm64-v8a/libreanimated.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/0fadab42304560f9428565a4be87f225/jetified-react-native-reanimated-64/jni/armeabi-v7a/libreanimated.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/0fadab42304560f9428565a4be87f225/jetified-react-native-reanimated-64/jni/x86/libreanimated.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/0fadab42304560f9428565a4be87f225/jetified-react-native-reanimated-64/jni/x86_64/libreanimated.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/365cee8f80a1af6fed62931979e90508.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/4ea7cc091fcacd60fc439f45f925cc5e.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/58d4949757f35209c89e83228a8fb2e0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/65e2ea444aa7e5152ff2cb5caf4f161c.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/6b55c1a15cd20beea9671e4805a27103.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/956d3a93d496b6e985958313f46d1b5c.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/c22514b7b13dd79fd318fc7667755f5b.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/c46af66bbf43aeb56c07bfed040ec23b.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/c46af66bbf43aeb56c07bfed040ec23b/com.swmansion.reanimated-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/cce44133af19d45d0c3c0badec666ce2.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/cce44133af19d45d0c3c0badec666ce2/jetified-react-native-reanimated-64-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/cf0197165ce8906b549cdb23af123725.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/dbcc4eb7d6a88ffe8fb02c7965948569.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/dbcc4eb7d6a88ffe8fb02c7965948569/jetified-react-native-reanimated-64.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/e7011acb6e17b836b4a5e1dc4a745a6d.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/build/.transforms/f1541cdd0b4438eb8ef6ed78ea28c841.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated-62.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated-63.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated-64.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/ios/REANodesManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/ios/REANodesManager.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/ios/native/NativeMethods.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/ios/native/NativeMethods.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/Animated.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/Animated.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/createAnimatedComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/createAnimatedComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/reanimated1/animations/decay.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/reanimated1/animations/decay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/reanimated1/animations/spring.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/reanimated1/animations/spring.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/reanimated1/animations/timing.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/reanimated1/animations/timing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/reanimated2/animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/reanimated2/animations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/reanimated2/jestUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/reanimated2/jestUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/reanimated2/js-reanimated/JSReanimated.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/lib/reanimated2/js-reanimated/JSReanimated.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/mock.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/mock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/react-native-reanimated.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/react-native-reanimated.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/Animated.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/Animated.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/createAnimatedComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/createAnimatedComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/reanimated1/animations/decay.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/reanimated1/animations/decay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/reanimated1/animations/spring.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/reanimated1/animations/spring.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/reanimated1/animations/timing.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/reanimated1/animations/timing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/reanimated2/animations.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/reanimated2/animations.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/reanimated2/jestUtils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/reanimated2/jestUtils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/reanimated2/js-reanimated/JSReanimated.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-reanimated/src/reanimated2/js-reanimated/JSReanimated.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/RNScreens.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/RNScreens.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/.transforms/a5d565d73f1cd1e9be348f0e4fa0b7b6/classes/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/.transforms/a5d565d73f1cd1e9be348f0e4fa0b7b6/classes/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/Screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenDismissedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenDismissedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/createNativeStackNavigator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/createNativeStackNavigator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/ios/RNSScreen.h" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/ios/RNSScreen.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/ios/RNSScreen.m" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/ios/RNSScreen.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/ios/RNSScreenStack.m" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/ios/RNSScreenStack.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/ios/RNSScreenStackHeaderConfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/ios/RNSScreenStackHeaderConfig.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/ios/RNSScreenStackHeaderConfig.m" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/ios/RNSScreenStackHeaderConfig.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/createNativeStackNavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/createNativeStackNavigator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/createNativeStackNavigator.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/createNativeStackNavigator.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/index.native.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/index.native.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/index.native.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/index.native.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/native-stack/views/HeaderConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/native-stack/views/HeaderConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/native-stack/views/HeaderConfig.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/native-stack/views/HeaderConfig.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/native-stack/views/NativeStackView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/native-stack/views/NativeStackView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/native-stack/views/NativeStackView.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/commonjs/native-stack/views/NativeStackView.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/createNativeStackNavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/createNativeStackNavigator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/createNativeStackNavigator.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/createNativeStackNavigator.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/index.native.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/index.native.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/index.native.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/index.native.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/native-stack/views/HeaderConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/native-stack/views/HeaderConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/native-stack/views/HeaderConfig.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/native-stack/views/HeaderConfig.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/native-stack/views/NativeStackView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/native-stack/views/NativeStackView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/native-stack/views/NativeStackView.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/module/native-stack/views/NativeStackView.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/typescript/native-stack/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/typescript/native-stack/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/typescript/native-stack/views/HeaderConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/typescript/native-stack/views/HeaderConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/typescript/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/lib/typescript/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/native-stack/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/native-stack/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/src/createNativeStackNavigator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/src/createNativeStackNavigator.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/src/index.native.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/src/index.native.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/src/native-stack/types.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/src/native-stack/types.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/src/native-stack/views/HeaderConfig.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/src/native-stack/views/HeaderConfig.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/src/native-stack/views/NativeStackView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/src/native-stack/views/NativeStackView.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-screens/src/types.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-screens/src/types.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1skBKtJDYsUbAeioUvQzJboWun3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7000fb7-0302-49f3-8526-65d7421f24ea" name="Default Changelist" comment="" />
+      <created>1621406646514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621406646514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1623677126823">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1623677126823" />
+  </component>
+</project>
